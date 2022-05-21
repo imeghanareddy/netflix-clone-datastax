@@ -1,3 +1,10 @@
+## Cassendra
+## Graph QL
+## netlify
+## react router dom
+## material UI
+## styled components
+
 install
 
 # npm install styled-components
